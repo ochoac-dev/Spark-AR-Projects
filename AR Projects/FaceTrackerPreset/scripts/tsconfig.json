@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "C:/Users/Coral/AppData/Local/Temp/6dff-305a-3337-224b/20062e65fae23f22b4167a9b2272e53f81b3d",
+    "checkJs": true,
+    "esModuleInterop": true,
+    "lib": [
+      "ES2019"
+    ],
+    "outDir": "C:/Users/Coral/AppData/Local/Temp/6dff-305a-3337-224b/20062e65fae23f22b4167a9b2272e53f81b3d/out-dir",
+    "paths": {
+      "*": [
+        "skylight-typedefs/*",
+        "skylight-node_modules/*"
+      ]
+    },
+    "typeRoots": [
+      "C:/Users/Coral/AppData/Local/Temp/6dff-305a-3337-224b/20062e65fae23f22b4167a9b2272e53f81b3d/skylight-node_modules/@types"
+    ],
+    "types": [
+      "node"
+    ]
+  },
+  "include": [
+    "./**/*.js",
+    "./**/*.ts"
+  ]
+}

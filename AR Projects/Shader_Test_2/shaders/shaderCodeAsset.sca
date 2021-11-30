@@ -1,0 +1,14 @@
+//==============================================================================
+// Welcome to shader authoring in Spark AR Studio!
+//==============================================================================
+
+#import <gradients>
+#import <sdf>
+
+// Entry point of the shader code asset
+//
+
+vec4 main() {
+
+  return vec4(1,0,1,1);
+}
