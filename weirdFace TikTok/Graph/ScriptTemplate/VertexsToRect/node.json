@@ -1,0 +1,44 @@
+{
+  "name": "VertexToRect",
+  "id": "356cc8f5-4162-f81a-5b6f-3ba91326ed1f",
+  "inputs": [
+    {
+      "name": "Top Left",
+      "type": "Vector2f",
+      "item_type": "",
+      "description": "The vertex pixel position of top left corner"
+    },
+    {
+      "name": "Top Right",
+      "type": "Vector2f",
+      "item_type": "",
+      "description": "The vertex pixel position of top right corner"
+    },
+    {
+      "name": "Bottom Left",
+      "type": "Vector2f",
+      "item_type": "",
+      "description": "The vertex pixel position of bottom left corner"
+    },
+    {
+      "name": "Bottom Right",
+      "type": "Vector2f",
+      "item_type": "",
+      "description": "The vertex pixel position of bottom right corner"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "Rect",
+      "type": "Rect",
+      "item_type":"",
+      "description": "A quadrilateral consisting of four vertices"
+    }
+  ],
+  "js": "CGVertexToRect.js",
+  "lua": "CGVertexToRect.lua",
+  "version": "1.0",
+  "category": "Transform",
+  "description": "Convert four vertices to a quadrilateral",
+  "productTypes": ["InHouse", "Domestic", "TTEH"]
+}

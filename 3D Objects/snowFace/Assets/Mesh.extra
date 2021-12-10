@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "c9037cb2-42ab-8fa3-e2b3-4f8d0b0a9549",
+      "b": ""
+    },
+    "objGuid": "",
+    "extraType": "ResItemFolder",
+    "name": "Mesh",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": ""
+  }
+]

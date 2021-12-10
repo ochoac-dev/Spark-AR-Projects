@@ -1,0 +1,93 @@
+{
+  "name": "3DAnimationController",
+  "id": "bb90d0ec-e437-3878-fd4f-93447bd646b5",
+  "inputs":
+  [
+    {
+      "name": "Start",
+      "type": "Pulse",
+      "item_type": "",
+      "description": "Play the clip"
+    },
+    {
+      "name": "Stop",
+      "type": "Pulse",
+      "item_type": "",
+      "description": "Stop the clip"
+    },
+    {
+      "name": "Pause",
+      "type": "Pulse",
+      "item_type": "",
+      "description": "Pause the clip"
+    },
+    {
+      "name": "Resume",
+      "type": "Pulse",
+      "item_type": "",
+      "description": "Resume the clip"
+    },
+    {
+      "name": "Animation",
+      "type": "Animator",
+      "item_type": "",
+      "description": "The current clip to be controlled"
+    },
+    {
+      "name": "Animation Index",
+      "type": "Int",
+      "item_type": "",
+      "default_value": "0",
+      "description": "The index of the animation, -1 choose all animation"
+    },
+    {
+      "name": "Looptime",
+      "type": "Int",
+      "item_type": "",
+      "default_value": "1",
+      "description": "Play times for the clip, -1 is infinite loop"
+    },
+    {
+      "name": "Stay Last Frame",
+      "type": "Bool",
+      "item_type": "",
+      "default_value": "0",
+      "description": "If it will stop on last frame"
+    }
+  ],
+  "outputs":
+  [
+    {
+      "name": "Exit",
+      "type": "Pulse",
+      "item_type": "",
+      "description": "Trigger the next node"
+    },
+    {
+      "name": "OnPlay",
+      "type": "Pulse",
+      "item_type": "",
+      "description": "Trigger the next node when the current clip starts playing"
+    },
+    {
+      "name": "OnStop",
+      "type": "Pulse",
+      "item_type": "",
+      "description": "Trigger the next node when the current clip stops playing"
+    },
+    {
+      "name": "OnFinish",
+      "type": "Pulse",
+      "item_type": "",
+      "description": "Trigger the next node when the current clip finishes playing"
+    }
+  ],
+  "scriptSupport": "js",
+  "js": "CGAnimatorController.js",
+  "version": "1.0",
+  "amazingVersion": "10.40.0",
+  "nodeEvent": ["beforeStart", "onCallBack", "onDestroy"],
+  "category": "Utility",
+  "description": "Control the 3D animation state",
+  "productTypes": ["InHouse", "Domestic", "TTEH"]
+}

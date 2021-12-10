@@ -1,0 +1,50 @@
+%YAML 1.1
+--- !Material &1
+name: alienHat_mat
+guid: {a: 15223208130982686469, b: 2496770251776794753}
+xshader: {localId: 1, path: xshader/f8994ca5-dace-14bf-2313-9a298854452b.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 2904424076193493856, b: 2575542857458992785}
+  floatmap:
+    __class: Map
+    u_EmissiveInt: 3.723000049591064
+    u_EnvInt: 1
+    u_EnvRot: 0
+    u_Metallic: 0.02099999971687794
+    u_NormInt: 0
+    u_Occlusion: 0
+    u_Rotation: 360
+    u_Roughness: 0
+  vec4map:
+    __class: Map
+    u_AlbedoCol: {x: 0.9294118, y: 1, z: 0.9098039, w: 1}
+    u_EmissiveCol: {x: 0.1215686, y: 0.1254902, z: 1, w: 0.01960784}
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+    u_Offset: {x: 0, y: 0}
+    u_Tiling: {x: 1, y: 1}
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+    u_AlbedoTex: {localId: 1, path: textures/9561945c-dd94-34cb-034b-5a55468393b7.png}
+    u_EmissiveTex: {localId: 1, path: textures/b508642b-3ab0-3e47-c40c-b55a537ba135.png}
+    u_EnvTex: {localId: 1, path: textures/Default_Material_Texture_Env.png}
+    u_MRATex: {localId: 1, path: textures/7631a8d5-7649-e4b1-24c2-8c5e1316b34d.png}
+    u_NormalTexture: {localId: 1, path: textures/b508642b-3ab0-3e47-c40c-b55a537ba135.png}
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+  AE_DirLightNum: !<str> 1
+  AE_PointLightNum: !<str> 0
+  AE_SpotLightNum: !<str> 0
+  AlbedoTex: !<str> 1
+  MRATex: !<str> 1
+  UvControl: !<str> 1
+mshaderPath: ""

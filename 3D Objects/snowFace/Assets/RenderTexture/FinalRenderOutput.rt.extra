@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "ba44a0f7-3373-468b-0215-4b0e936da734",
+      "b": ""
+    },
+    "objGuid": "Guid(10106382247339743399, 12919527998807600042)",
+    "extraType": "ResItemRenderTexture",
+    "name": "FinalRenderOutput",
+    "rttiType": "SceneOutputRT",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "f6edc8d4492a9265d71e3c33ee50c47a"
+  }
+]

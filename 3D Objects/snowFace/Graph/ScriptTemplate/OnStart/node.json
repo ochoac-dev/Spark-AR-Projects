@@ -1,0 +1,28 @@
+{
+    "name": "Start",
+    "id": "2f0fed0f-5279-9602-3083-5e1fb8163563",
+    "copyEnable": false,
+    "groupEnable": false,
+    "inputs":
+    [
+    ],
+    "outputs":
+    [
+        {
+            "name": "Trigger",
+            "type": "Pulse",
+            "item_type": "",
+            "description": "Trigger next node"
+        }
+    ],
+    "js": "CGOnStart.js",
+    "lua": "CGOnStart.lua",
+    "version": "1.0",
+    "amazingVersion": "10.40.0",
+    "luaFuncName": "CGOnStart",
+    "category": "Event",
+    "subCategory": "Lifecycle",
+    "description": "Trigger next node when start",
+    "nodeEvent": "onStart",
+    "productTypes": ["InHouse", "Domestic", "TTEH"]
+}

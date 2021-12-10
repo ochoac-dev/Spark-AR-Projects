@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "82dda474-91e9-cae9-2c22-b17afe5580f4",
+      "b": ""
+    },
+    "objGuid": "",
+    "extraType": "ResItemFolder",
+    "name": "3D Objects",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": ""
+  }
+]

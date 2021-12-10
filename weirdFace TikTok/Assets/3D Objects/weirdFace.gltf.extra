@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "7063866d-7ffd-1f11-59f5-b7e2797f8d22",
+      "b": ""
+    },
+    "objGuid": "Guid(2253655398463412587, 6358969673630789771)",
+    "extraType": "ResItemAssimpAsset",
+    "name": "weirdFace",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "66b720b626ec563632edf73391747e53",
+    "importAnimation": false,
+    "importVertexColor": false,
+    "importBlendshape": false,
+    "materialsGUIDs": [
+      "1a5b443b-8639-eb7f-23fb-92db9f449338"
+    ],
+    "meshGUIDs": [
+      "b975311e-ea54-0722-38f5-311242ba354a"
+    ],
+    "animazGUIDs": []
+  }
+]

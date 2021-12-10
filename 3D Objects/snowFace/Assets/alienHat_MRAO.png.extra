@@ -1,0 +1,19 @@
+[
+  {
+    "guid": {
+      "a": "7631a8d5-7649-e4b1-24c2-8c5e1316b34d",
+      "b": ""
+    },
+    "objGuid": "Guid(4560904299312441478, 2945497007285750975)",
+    "extraType": "ResItemPNGImage",
+    "name": "alienHat_MRAO",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "9d087b4c423128ac7c79e6a422e2d286",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

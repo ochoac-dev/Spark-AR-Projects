@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "3832fdd9-f616-4e1f-5b4d-fb854d8ce6ad",
+      "b": ""
+    },
+    "objGuid": "Guid(9675831767648719777, 6347741071261043844)",
+    "extraType": "ResItemMesh",
+    "name": "Head",
+    "rttiType": "Mesh",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "26ecb1fd350eef6537016651ccd063db"
+  }
+]

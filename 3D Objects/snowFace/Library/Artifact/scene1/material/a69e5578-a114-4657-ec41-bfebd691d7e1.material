@@ -1,0 +1,48 @@
+%YAML 1.1
+--- !Material &1
+name: Material
+guid: {a: 6074284001782497307, b: 5761605284514834609}
+xshader: {localId: 1, path: xshader/a69e5578-a114-4657-ec41-bfebd691d7e1.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 3409151299574264095, b: 8335589623809290390}
+  floatmap:
+    __class: Map
+    u_EmissiveInt: 0
+    u_EnvInt: 1
+    u_EnvRot: 0
+    u_Metallic: 0
+    u_NormInt: 1
+    u_Occlusion: 1
+    u_Rotation: 0
+    u_Roughness: 0.5
+  vec4map:
+    __class: Map
+    u_AlbedoCol: {x: 0.4898758, y: 0.4303973, z: 0.4481949, w: 1}
+    u_EmissiveCol: {x: 1, y: 1, z: 1, w: 1}
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+    u_Offset: {x: 0, y: 0}
+    u_Tiling: {x: 1, y: 1}
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+    u_AlbedoTex: {localId: 1, path: textures/Default_Material_Texture_White.png}
+    u_EmissiveTex: {localId: 1, path: textures/Default_Material_Texture_White.png}
+    u_EnvTex: {localId: 1, path: textures/Default_Material_Texture_Env.png}
+    u_MRATex: {localId: 1, path: textures/Default_Material_Texture_White.png}
+    u_NormalTexture: {localId: 1, path: textures/Default_Material_Texture_Normal.png}
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+  AE_DirLightNum: !<str> 1
+  AE_PointLightNum: !<str> 0
+  AE_SpotLightNum: !<str> 0
+  Shadow: !<str> 1
+mshaderPath: ""

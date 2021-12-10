@@ -1,0 +1,19 @@
+[
+  {
+    "guid": {
+      "a": "b508642b-3ab0-3e47-c40c-b55a537ba135",
+      "b": ""
+    },
+    "objGuid": "Guid(9461864048148569679, 1230275239504354739)",
+    "extraType": "ResItemPNGImage",
+    "name": "alienHat_normal",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "759cf0d88854abbfe21dae20564aa063",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

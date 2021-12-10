@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "9273f4eb-aa03-0e5c-3ef4-0bddcca94a64",
+      "b": ""
+    },
+    "objGuid": "Guid(3912634611369259340, 2003256870903964349)",
+    "extraType": "ResItemAssimpAsset",
+    "name": "snowface",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "a6e7d38e2db35a072527c580bb964d16",
+    "importAnimation": false,
+    "importVertexColor": false,
+    "importBlendshape": false,
+    "materialsGUIDs": [
+      "a69e5578-a114-4657-ec41-bfebd691d7e1"
+    ],
+    "meshGUIDs": [
+      "198260d7-7458-4fb3-40ea-f04370d9e320"
+    ],
+    "animazGUIDs": []
+  }
+]

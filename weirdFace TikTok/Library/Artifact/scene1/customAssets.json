@@ -1,0 +1,1 @@
+[{"uuid":"Default_Camera_Input","type":"texture","subType":"cameraInput","rtti":"RenderTexture","properties":{"flip":true,"inputTexture":"share://input.texture","builtin":true},"path":"Default_Camera_Input.jsasset"}]

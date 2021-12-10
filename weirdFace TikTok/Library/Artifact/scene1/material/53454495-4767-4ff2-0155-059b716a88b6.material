@@ -1,0 +1,30 @@
+%YAML 1.1
+--- !Material &1
+name: Occluder
+guid: {a: 18252827368565795425, b: 6339802854145167023}
+xshader: {localId: 1, path: xshader/53454495-4767-4ff2-0155-059b716a88b6.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 11333390567901588029, b: 3816353755741504436}
+  floatmap:
+    __class: Map
+  vec4map:
+    __class: Map
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+  AE_DirLightNum: !<str> 1
+  AE_PointLightNum: !<str> 0
+  AE_SpotLightNum: !<str> 0
+mshaderPath: ""
